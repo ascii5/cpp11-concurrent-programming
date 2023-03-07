@@ -1,8 +1,6 @@
 # 基于从cpp11的多线程入门实例
 
-## contain
-
-### producer consumer model
+## producer consumer model
 
 producer consumer model包含了两个函数的设计
 
@@ -25,7 +23,7 @@ producer consumer model包含了两个函数的设计
 - 消费任务
 - 唤醒生产者线程
 
-### simple ThreadPool
+## simple ThreadPool
 
 threadPool 类包含了三个函数的设计：
 
